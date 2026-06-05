@@ -186,7 +186,7 @@ if st.sidebar.button("Predict Cluster"):
     ">
 
     <h3 style="color:white;">
-    💳 Predicted Cluster: {predicted_cluster}
+    Predicted Cluster: {predicted_cluster}
     </h3>
 
     <h4 style="color:white;">
